@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Should render correctly in \`debug\` 1`] = `
+<div>
+  <h1>
+    TODOS
+  </h1>
+  <div
+    className="todos"
+  />
+  <Button
+    active={false}
+    className="add-btn"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+    variant="primary"
+  >
+    Add Todo
+  </Button>
+</div>
+`;
